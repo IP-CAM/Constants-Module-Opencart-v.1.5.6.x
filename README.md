@@ -1,7 +1,7 @@
 ocmodule_constants
 ==================
 
-Opencart модуль, позволяющий создавать константы ( статические записи ) и затем использовать их в коде.
+Opencart module that allows you to create constants (static records) and then use them in your code.
 
-Модуль отлично подходит для тех ситуаций, когда нужно создать копирайт, несколько телофонов, слоган и.т.п
-то есть данные, которые можно будет потом изменять прямо в админке.
+The module is perfect for those situations when you need to create a copyright, several telephones, 
+a slogan, etc., that is, data that can then be changed right in the admin panel. 
